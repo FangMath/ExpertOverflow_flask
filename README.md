@@ -1,4 +1,3 @@
-This is Forked from https://github.com/thedataincubator/flask-demo.git
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
