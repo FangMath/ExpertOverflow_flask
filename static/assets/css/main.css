@@ -137,6 +137,10 @@ h3 {
 	font-size: 24px;
 	font-weight: 500;
 }
+h4 {
+	color: #000;
+	font-weight: 500;
+}
 /* Paragraph & Typographic */
 p {
 	line-height: 26px;
@@ -568,6 +572,12 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 	bottom: 10px;
 	right: 30px;
 }
+.left {
+        float: left;    
+    }
+.right {
+        float: right;    
+    }
 
 /* ==========================================================================
    MEDIA QUERIES
