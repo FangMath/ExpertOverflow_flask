@@ -4,6 +4,8 @@ This is the Heroku app files using flask. Download it to your local and test it 
     > python app.py
 Then open your brower and checkout the web app.
 
+Check out the Heroku app [here](https://experts-overflow.herokuapp.com).
+
 ## Related repos
 
 * [ExpertOverflow_spark](https://github.com/FangMath/ExpertOverflow_spark) ExpertOverflow implementation using Spark(Scala) on the full Stack Overflow dataset
@@ -14,4 +16,3 @@ Then open your brower and checkout the web app.
 A better documentation is needed...
 
 =======
-# Flask on Heroku -- Experts Overflow
